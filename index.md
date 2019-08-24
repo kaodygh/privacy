@@ -2,6 +2,7 @@
 
 <meta property="fb:app_id" content="2015087251929626" />
 <meta property="og:description" content="Learn how to speak another language with help from native speakers" />
+<meta property="og:image" content="https://davidwalsh.name/wp-content/themes/klass/img/facebooklogo.png"/>
 
 <h1>Welcome to our Privacy Policy</h1>
 <h3>Your privacy is critically important to us.</h3>
