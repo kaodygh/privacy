@@ -1,8 +1,16 @@
 <html>
 
 <meta property="fb:app_id" content="2015087251929626" />
+
 <meta property="og:description" content="Learn how to speak another language with help from native speakers" />
-<meta property="og:image" content="https://davidwalsh.name/wp-content/themes/klass/img/facebooklogo.png"/>
+
+<meta property="og:image" content="https://lh3.googleusercontent.com/xW_m8DUe0KlXRIo40LoXts6Y62gAyB-9JUTtnpaT0io-ola_QqlBKOO56zfHkf2Vz9a9=s180"/>
+
+<meta property="og:image:height" content="300" />
+
+<meta property="og:image:width" content="300" />
+
+<meta property="og:image:secure_url" content="https://lh3.googleusercontent.com/xW_m8DUe0KlXRIo40LoXts6Y62gAyB-9JUTtnpaT0io-ola_QqlBKOO56zfHkf2Vz9a9=s180" 
 
 <h1>Welcome to our Privacy Policy</h1>
 <h3>Your privacy is critically important to us.</h3>
